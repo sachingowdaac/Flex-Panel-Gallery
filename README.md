@@ -1,2 +1,1 @@
-# Flex-Panel-Gallery
-Flexbox + JavaScript Image Gallery
+Flex Panels with JavaScript Image Gallery
